@@ -28,6 +28,7 @@ img.photo {
   padding: 2em;
   background: #fff;
   min-height: 100%;
+  display: flow-root;
 }
 
 h1 {
